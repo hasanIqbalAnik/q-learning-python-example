@@ -25,9 +25,7 @@ lr = .85
 y = .99
 
 i = 0
-p = 0
-while p != 5:
-    p = input()
+
 while True:
     for event in pg.event.get():
         if event.type == QUIT:  # for the quitting button on the window
