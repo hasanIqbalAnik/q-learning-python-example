@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=o5GiQkClbAY
 
 
 * Requirements:
-Pygame
+Pygame,
 Numpy
 
 * To Run:
