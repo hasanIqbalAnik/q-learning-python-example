@@ -8,4 +8,6 @@ Pygame,
 Numpy
 
 * To Run:
-In a console, go to the project directory and issue: 'python main.py'
+In a console, go to the project directory and issue: 'python main.py'\
+
+* Only the demo, without the code presentation: https://youtu.be/gS8WFQHtsj0
